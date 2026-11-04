@@ -49,13 +49,13 @@ Implementamos o arquivo teste.py para verificar se todas as biblioteca estão co
 
 python teste.py
 
-se aparecer a mensagem : (venv)
+Se aparecer a mensagem : (venv)
 
 Está tudo funcionando perfeitamente ! 
 
 RESUMO DA FINALIDADE DO CÓDIGO
 
-O arquivo teste.py realiza uma verificação básica das dependicias do projeto, confirmando se as bibliotecas Flask, Requests e BeautifulSoup estão instaladas e podem ser importadas corretamente no ambiente virtual.
+O arquivo teste.py realiza uma verificação básica das dependêcias do projeto, confirmando se as bibliotecas Flask, Requests e BeautifulSoup estão instaladas e podem ser importadas corretamente no ambiente virtual.
 
 
 
