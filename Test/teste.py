@@ -16,6 +16,6 @@ import bs4
 # está configurado corretamente.
 
 print("Ambiente configurado com sucesso!")
-print("Flask instaldo:", flask.__version__)
+print("Flask instalado:", flask.__version__)
 print("Requests instalado:", requests.__version__)
 print("BeautifulSoup4 instalado:", bs4.__version__)
