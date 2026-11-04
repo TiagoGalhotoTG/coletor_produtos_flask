@@ -1,4 +1,4 @@
-# Teste de ambiente Python
+# Teste de ambiente Python.
 
 # Importa a blioteca flask, utilizada para criar aplicações web com Python
 import flask 
